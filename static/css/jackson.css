@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding:0;
+}
+.navbar{
+    background-color: #237a58;
+}
+#brand-jackson{
+    color: #ffffff;
+    font-size: 38px;
+}
+.navbar-brand{
+    margin-top: 30px;
+}
+#nav-right a{
+    color: #ffffff;
+    margin-top: 30px;
+    font-size: 30px;
+}
+.jumbotron{
+    height: 600px;
+    color: #ffffff;
+    margin-top: 70px;
+    background-color: #237a58;
+}
+.navbar-default{
+    border-color: #237a58;
+}
+#jumbotron-text{
+    margin-top: 20%;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    border: 0;
+}
+#article_mess{
+    margin: 20px;
+}
+#article_mess span{
+    margin: 10px;
+}
+.article_intro_white{
+
+    background-color: white;
+}
+.article_intro_green{
+
+    background-color: #03af6c;
+}
+.article_intro_pos{
+    padding: 100px;
+}
+.line{
+    text-align: left;
+    background-color: #0f0f0f;
+    width: 250px;
+    height: 2px;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+}
+#tags a{
+    background-color: #03af6c;
+    color: #0f0f0f;
+}
+.dropdown-menu{
+    background-color: #03af6c;
+}
+
+.footer{
+    padding-bottom: 0;
+    color: white;
+    height: 100px;
+    background-color: #333;
+}
+.footer p{
+    margin-top: 40px;
+    font-size: 20px;
+}
